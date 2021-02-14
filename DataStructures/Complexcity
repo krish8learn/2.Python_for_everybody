@@ -1,0 +1,4 @@
+Big O notation
+Time grows linearly proportional to amount of input given in program.
+Small terms are neglected.(means nothing compare to large terms)
+Drop the constant.

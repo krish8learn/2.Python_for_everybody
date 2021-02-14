@@ -1,0 +1,25 @@
+import xml pyhton library
+import sqlite3 pyhton library
+create database file 
+create a cursor to use in program
+
+by using the cursor we would create tables using sql
+     drop tables
+     create table 
+     create table
+     create table
+     
+open xml file from which we will get data for database
+
+create program which will fetch data from xml file
+
+then parse the xml file
+
+go to the branch where data are located
+count the number of branch which have data
+
+start a loop which would iterate every data branch of of xml file
+      take those data into their respective attributes
+      print their value
+      then insert those value into the tables
+commit     

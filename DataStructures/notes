@@ -1,0 +1,34 @@
+comparing this and self
+
+java :
+class A
+{
+public int radius;
+public A(int radius)
+{
+this.radius = radius;
+}
+}
+
+A ob = new A(5);
+
+Python
+class A(object):
+     def_init_(self,radius):
+         self.radius = radius
+
+A = A()
+
+
+                           1, 2, 3, 4
+how stack print elements : 5,45,98,78
+                            4, 3, 2,1
+how queue print elements : 78,98,45,5
+
+--------------------------------------------------------------------------------
+TREE
+non-linear, hierarchical data structure
+elements are called Node
+top node called root Node
+node coming out of parent node known as child Node
+recursive data structure

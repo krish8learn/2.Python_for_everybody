@@ -1,0 +1,19 @@
+import sqllite
+CReAtE data base file
+make a middle connection which would execute statement
+delete all the table if exist
+create table
+get the file from which database will be created 
+read the file line by line
+find the 'From' after this you will find email ----if there is no 'from' skip that line
+split the line which contain 'from'
+take the 2nd(0,1) element in list
+execute select count attribute from the created table 
+be ready
+if there is no value inside the table ------insert the email selected from the file else ------update the count column of table
+commit
+
+display
+execute select statement (which would take value correspondent to the email)
+print those value by for loop ---one would be string and integer
+close()
